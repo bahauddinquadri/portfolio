@@ -5,7 +5,7 @@ html,body{
     height:100vh;
     overflow-x: hidden; 
     position:fixed;
-    font-family:'raleway';
+    font-family: 'Raleway';
 }
 nav{
     display: flex;
@@ -16,7 +16,6 @@ nav{
     width: 99.9%;
     background-color: #be3144;
     padding-top:10px;
-    font-family:'raleway';
 
 }
  /* nav {
@@ -74,13 +73,21 @@ background-color:grey;
      font-family:'raleway';
    
 }
+.box img{
+    border-radius:50%;
+    height:300px;
+    width:300px;
+    margin-left: 39%;
+
+}
 .box > h1{
     color:whitesmoke;
     font-size:40px; 
+    margin-bottom:0;
 }
  .box p{
     color:red;
-    font-family:'Times New Roman';
+    /* font-family:'Times New Roman'; */
     font-size:30px;
 }
 .projects-header{

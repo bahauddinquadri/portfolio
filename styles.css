@@ -159,13 +159,6 @@ background-color:grey;
     margin-left:-60px;
     object-fit: contain;
 }
-.project-name{
-    /* padding-top:10px;
-    padding-bottom:0px; */
-    /* border: 2px solid white; */
-    /* color:white; */
-    
-}
 .project-name a{
     text-decoration:none;
     color:white;
